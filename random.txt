@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 csok a családnak
 =======
 hello a családnak
 hogy van a férjem?
 >>>>>>> zitafile
+=======
+viszlát
+>>>>>>> 260673feb8a2347e20fbaf5f566f015a8f0af1ce
