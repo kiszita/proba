@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 csok a családnak
+=======
+hello a családnak
+hogy van a férjem?
+>>>>>>> zitafile
